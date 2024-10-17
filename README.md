@@ -6,11 +6,11 @@ Welcome to the swamp of hilarity, where I'm not just the king of the jungle i am
 
 You've stumbled upon the world of **Baap Ka Magarmach**, where the only thing sharper than my teeth is my sense of humor. I'm not just a crocodile in the cybersecurity swamp—I'm the one who’s here to roast your skills, chomp on challenges, and laugh my way through CTFs. You’re gonna need more than luck to survive my ridiculousness. 😎
 
-Expert at cracking passwords... and jokes (you won’t see either coming)
-Specializes in brute-force attacks, but only on my fridge when I’m hungry
-I can sniff packets... and also your lunch (don’t bring sandwiches to this competition)
-Master at SQL injections, but let’s be real, I prefer a coffee injection
-Certified Steganography Ninja: I can hide messages better than your ex hiding emotions
+- Expert at cracking passwords... and jokes (you won’t see either coming)
+- Specializes in brute-force attacks, but only on my fridge when I’m hungry
+- I can sniff packets... and also your lunch (don’t bring sandwiches to this competition)
+- Master at SQL injections, but let’s be real, I prefer a coffee injection
+- Certified Steganography Ninja: I can hide messages better than your ex hiding emotions
   
 
 ## Who Am I?
